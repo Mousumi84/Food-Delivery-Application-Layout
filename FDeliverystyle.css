@@ -144,3 +144,12 @@ footer {
     gap: 70px;
 
 }
+@media (max-width: 990px) {
+    #orgpage {
+        width: 90%;
+        padding: 50px;
+    }
+    #sec-5-img {
+        visibility: hidden;
+    }
+}
